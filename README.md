@@ -31,7 +31,7 @@ If you are installing directly from GitHub before the packages are published, ad
 Then require the Filament adapter:
 
 ```bash
-composer require playroom/filament-adapter:dev-main
+composer require playroom/filament-adapter:^1.0
 ```
 
 Laravel package discovery will register `PlayRoom\\FilamentPlayRoom\\FilamentPlayRoomServiceProvider` automatically.

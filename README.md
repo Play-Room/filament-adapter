@@ -11,24 +11,7 @@ Filament v5 plugin and widget package for embedding PlayRoom in a panel.
 
 ## Installation
 
-If you are installing directly from GitHub before the packages are published, add both repositories to your application's `composer.json`:
-
-```json
-{
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Play-Room/livewire-adapter.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/Play-Room/filament-adapter.git"
-        }
-    ]
-}
-```
-
-Then require the Filament adapter:
+Require the Filament adapter with Composer:
 
 ```bash
 composer require playroom/filament-adapter:^1.0

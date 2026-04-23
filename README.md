@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/6ae8e4d0-a6e0-444f-adc5-47c8bef57cb2" />
+
 # PlayRoom Filament Adapter
 
 Filament v5 plugin and widget package for embedding PlayRoom in a panel.

@@ -1,5 +1,4 @@
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/6ae8e4d0-a6e0-444f-adc5-47c8bef57cb2" />
-<img width="1345" height="873" alt="image" src="https://github.com/user-attachments/assets/958f99a9-b43c-4794-a613-751c236443a8" />
+<img width="2560" height="1440" alt="playroom_2560x1440_no_crop" src="https://github.com/user-attachments/assets/177650c3-9504-47ac-8828-8dad83aca92f" />
 
 # PlayRoom Filament Adapter
 
